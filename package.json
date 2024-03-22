@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "react-info",
+=======
+  "name": "react-info-site",
+>>>>>>> bfc6d8f (recommit)
   "private": true,
   "version": "0.0.0",
   "type": "module",
