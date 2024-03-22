@@ -1,9 +1,13 @@
 {
 <<<<<<< HEAD
+<<<<<<< HEAD
   "name": "react-info",
 =======
   "name": "react-info-site",
 >>>>>>> bfc6d8f (recommit)
+=======
+  "name": "react-info-site",
+>>>>>>> acb512c (recommit)
   "private": true,
   "version": "0.0.0",
   "type": "module",
