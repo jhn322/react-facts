@@ -1,14 +1,12 @@
 import "./App.css";
 import Navbar from "./Navbar.jsx";
-import Footer from "./Footer.jsx";
 import MainContent from "./MainContent.jsx";
 
 function App() {
   return (
-    <div>
+    <div className="container">
       <Navbar />
       <MainContent />
-      <Footer />
     </div>
   );
 }
