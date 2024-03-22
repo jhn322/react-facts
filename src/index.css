@@ -60,7 +60,7 @@ main::before {
   right: 10;
   width: 900px;
   height: 900px;
-  background-image: url(./react-2.png);
+  background-image: url(./assets/react-2.png);
   background-repeat: no-repeat;
   background-size: 70% auto;
   opacity: 0.1;
