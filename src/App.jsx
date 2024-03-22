@@ -1,4 +1,3 @@
-import "./App.css";
 import Navbar from "./Navbar.jsx";
 import MainContent from "./MainContent.jsx";
 
