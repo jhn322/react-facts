@@ -1,6 +1,6 @@
 ## Preview website:
 
-[Netlify](https://jhn-react-info-site.netlify.app/)
+[Netlify](https://jhn-react-facts.netlify.app/)
 
 ### React + Vite
 
