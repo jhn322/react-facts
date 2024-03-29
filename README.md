@@ -1,6 +1,6 @@
 # ReactFacts:
 
-[Preview on Netlify](https://jhn-meme-generator.netlify.app/)
+[Preview on Netlify](https://jhn-react-facts.netlify.app/)
 
 ### React + Vite
 
